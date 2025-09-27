@@ -1,2 +1,2 @@
-#OshiAI
+# OshiAI
 だよーん
